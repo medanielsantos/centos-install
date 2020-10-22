@@ -1,1 +1,1 @@
-# Instalção automaitica do centos 7
+# Instalação automatica do centos 7
