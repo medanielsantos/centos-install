@@ -1,4 +1,4 @@
-# Instalação automatica Centos & Ubuntu
+# Preparação do Ambiente com Centos & Ubuntu 
 
 
 Deploy para servidor 
