@@ -1,6 +1,4 @@
-# Preparação do Ambiente com Centos & Ubuntu 
+# Preparing Environment Centos & Ubuntu 
 
 
-Deploy para servidor 
 
-Desenvolvimento.....
